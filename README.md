@@ -1,5 +1,8 @@
 # 💫 About Me:
 🚀 BTech CSE |<br>| Python Enthusiast |<br>| Data Science & AI Learner |<br>| Building "Leo" AI Assistant Projects |<br>| Generative Artificial Intelligence |
+# ![Profile Views](https://gpvc.arturio.dev/vedprakash8721)
+
+
 
 
 ## 🌐 Socials:
@@ -20,5 +23,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vedprakash8721&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
