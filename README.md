@@ -8,7 +8,6 @@
 [![Twitter](https://img.shields.io/badge/X/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/vedprakash_8721)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:askrocks2001@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ved_prakash_8721)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Abhishek Kushwaha)
 
 
 
