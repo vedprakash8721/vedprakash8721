@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🚀 BTech CSE |<br>| Python Enthusiast |<br>| Data Science & AI Learner |<br>| Building "Leo" AI Assistant Projects |<br>| Generative Artificial Intelligence |
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vedprakash8721&label=Profile_Views&style=flat-square&color=0e75b6)
