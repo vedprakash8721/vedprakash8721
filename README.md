@@ -27,6 +27,3 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vedprakash8721&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vedprakash8721&theme=radical&no-frame=false&no-bg=true&margin-w=4)
